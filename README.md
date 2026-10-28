@@ -1,2 +1,2 @@
 # huda-portfolio
-professinal
+professional
